@@ -1,6 +1,6 @@
 # Programming Fundamentals (C++) Labs
 
-This repository contains academic coursework and programming projects developed during my first semester at **Fatima Jinnah Women University (FJWU)**.
+This repository contains academic coursework and programming projects developed during my **1st semester** at **Fatima Jinnah Women University (FJWU)**.
 
 ---
 
